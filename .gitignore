@@ -1,0 +1,32 @@
+# NetBeans specific
+nbproject/private/
+build/
+
+# Compiled files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Generated files
+Makefile
+Makefile~
+*.mk
+*.d
